@@ -50,7 +50,7 @@ def add_characters
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-   }
+  
 
    # Write code below that does the following programmatically:
    #
@@ -65,5 +65,6 @@ def add_characters
         {:name => "Apothecary"}
         
       ]
+   }
    epic_tragedy
 end
